@@ -6,7 +6,7 @@ Created on Thu Oct 31 13:02:26 2019
 @author: joel
 
 Temperaturprofilen i borehullveggen for et felt bestående av ett borehull er
-evauert ved å bruke verktøyet pygfunction. 
+evaluert ved å bruke verktøyet pygfunction for uniform varmetransport langs borehullet. 
 
 Denne koden returenrer
     1) Temperaturprofilen i borehullveggen for ett borefelt bestående av ett
